@@ -1,0 +1,6 @@
+{
+  "name": "Eguette OPS",
+  "description": "Système de gestion des commandes et livraisons de restaurant en temps réel à Dakar, Sénégal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
